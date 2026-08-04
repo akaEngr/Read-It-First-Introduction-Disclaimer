@@ -78,8 +78,9 @@ If you find anything that can be improved, I would truly appreciate your feedbac
 
 ## 🔗 Connect With Me
 
-💼 LinkedIn  - https://linkedin.com/in/akaengr <br>
-📺 YouTube   -  https://youtube.com/@akaEngr
+💼 **LinkedIn**  - https://linkedin.com/in/akaengr <br>
+📺 **YouTube**   - https://youtube.com/@akaEngr <br>
+💻 **GitHub**  - https://github.com/akaEngr
 
 Watch tutorials and follow my learning journey:
 
