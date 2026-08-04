@@ -2,20 +2,16 @@
 
 Hello everyone! Welcome Here.
 
-This repository is divided into two sections:
-
-* About Me** – A brief introduction and my learning goals.
-* About This Repository** – What you'll find here and how I approach my learning.
-
-## ---------------------------------------------------------------------------------------------------------
-
+This repository serves as a brief introduction to me, my learning journey, and what you can expect from my GitHub repositories.
+<br>
+<br>
 # 👨‍💻 About Me
 
-Hi, I'm **Anshul Gupta**.
+Hi, I'm Anshul Gupta.
 
-I started learning **Python** with the long-term goal of contributing to the fields of **Artificial Intelligence (AI), Machine Learning (ML), and Data Science**.
+I started learning Python with the long-term goal of contributing to the fields of **Artificial Intelligence (AI), Machine Learning (ML), and Data Science**.
 
-Currently, I am learning **Django based on current company requirements** to build a strong foundation in backend web development and prepare for Django Developer roles.
+Currently, I am learning **Django based on company requirements** to build a strong backend development foundation and prepare for Django Developer roles.
 
 ### 🚀 Current Learning Roadmap
 
@@ -27,37 +23,44 @@ Currently, I am learning **Django based on current company requirements** to bui
 
 ### 🎯 Current Goal
 
-Become a **Django Developer**.
+Become a Django Developer.
 
 ### 🌟 Long-Term Goal
 
-Build a career in **Data Science, Artificial Intelligence, and Machine Learning**.
-
-## ---------------------------------------------------------------------------------------------------------
+Transition into **Data Science, Artificial Intelligence, and Machine Learning**.
+<br>
+<br>
 
 # 📂 About This Repository
 
-Most repositories on my GitHub will follow my Django Developer learning journey, starting from Python fundamentals.
+This repository explains my learning approach and what you will find throughout my GitHub journey.
 
-## 📘 Notes
+### 📘 Notes
 
 * Personal notes written in my own words.
-* Created mainly for revision and better understanding.
+* Created mainly for revision and to strengthen my understanding of concepts.
 
-## 💻 Practice Sets
+### 💻 Practice Sets
 
-* Practice questions collected from different learning resources such as ChatGPT, Gemini, official documentation, and educational websites.
-* Questions range from beginner to advanced level.
+* Practice questions collected from different learning resources such as **ChatGPT, Gemini, official documentation, and educational websites**.
+* Questions range from **beginner to advanced** level.
 * Every solution is written after my own practice and understanding.
 
-## 📈 My Learning Strategy
+### 📁 Projects
 
-I believe consistency is more important than speed.
+Most of my repositories will follow my **Django Developer** learning journey, starting from **Python Fundamentals** and gradually moving towards backend development using Django and DRF.
+<br>
+<br>
+
+# 📈 My Learning Strategy
+
+I believe **consistency is more important than speed**.
 
 * I practice coding every day.
 * I usually solve **60–80 programming questions in a single sitting** to improve my problem-solving skills and strengthen my Python fundamentals.
-
-## ---------------------------------------------------------------------------------------------------------
+* My goal is to understand the logic behind every problem instead of simply memorizing solutions.
+<br>
+<br>
 
 # ⚠️ Important Note
 
@@ -67,8 +70,25 @@ Since these repositories are part of my learning journey, you may occasionally f
 * Variable naming inconsistencies
 * Minor formatting or explanation issues
 
-If you notice anything that can be improved, I would truly appreciate your feedback. Feel free to open an issue or suggest improvements.
+I am continuously improving my coding style, documentation, and communication skills.
 
-Thank you for visiting my GitHub. I hope you find these repositories helpful.
+If you find anything that can be improved, I would truly appreciate your feedback. Feel free to open an issue or suggest improvements.
+<br>
+<br>
 
-**Happy Coding! 🚀**
+## 🔗 Connect With Me
+
+💼 LinkedIn  - https://linkedin.com/in/akaengr <br>
+📺 YouTube   -  https://youtube.com/@akaEngr
+
+Watch tutorials and follow my learning journey:
+
+I regularly share my learning journey, coding practice, and projects. Your support and feedback are always appreciated!
+<br>
+<br>
+
+# ❤️ Thank You
+
+Thank you for visiting my GitHub profile and repositories.
+
+I hope my notes, practice sets, and projects help other learners as much as they help me.
